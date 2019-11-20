@@ -64,7 +64,7 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ### CVPR 2017
 
-* Simon Niklaus et al., Video Frame Interpolation via Adaptive Convolution, [[pdf\]]([pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Niklaus_Video_Frame_Interpolation_CVPR_2017_paper.pdf)).
+* Simon Niklaus et al., Video Frame Interpolation via Adaptive Convolution, [[pdf\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Niklaus_Video_Frame_Interpolation_CVPR_2017_paper.pdf)).
 
 ### ICCV 2017
 
