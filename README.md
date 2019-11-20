@@ -15,7 +15,6 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 * Peng Yi et al., Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations, [[pdf\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yi_Progressive_Fusion_Video_Super-Resolution_Network_via_Exploiting_Non-Local_Spatio-Temporal_Correlations_ICCV_2019_paper.pdf).
 * Haochen Zhang et al., Two-Stream Action Recognition-Oriented Video Super-Resolution, [[pdf\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Two-Stream_Action_Recognition-Oriented_Video_Super-Resolution_ICCV_2019_paper.pdf).
-  
 
 ### CVPR 2018
 
@@ -118,7 +117,7 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 ### CVPR 2019
 
 * Rui Xu et al., Deep Flow-Guided Video Inpainting, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Deep_Flow-Guided_Video_Inpainting_CVPR_2019_paper.pdf).
-* Dahun Kim et al., Video Inpainting, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Video_Inpainting_CVPR_2019_paper.pdf).
+* Jonas Wulf et al., Dahun Kim et al., Video Inpainting, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Video_Inpainting_CVPR_2019_paper.pdf).
 
 ### ICCV 2019
 
