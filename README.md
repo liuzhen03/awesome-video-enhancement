@@ -8,17 +8,21 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ### CVPR 2019
 
-* Muhammad Haris et al, Recurrent Back-Projection Network for Video Super-Resolution, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Haris_Recurrent_Back-Projection_Network_for_Video_Super-Resolution_CVPR_2019_paper.pdf).
-* Sheng Li et al, Fast Spatio-Temporal Residual Network for Video Super-Resolution, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Fast_Spatio-Temporal_Residual_Network_for_Video_Super-Resolution_CVPR_2019_paper.pdf).
+* Muhammad Haris et al., Recurrent Back-Projection Network for Video Super-Resolution, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Haris_Recurrent_Back-Projection_Network_for_Video_Super-Resolution_CVPR_2019_paper.pdf) [[PyTorch\]](<https://github.com/alterzero/RBPN-PyTorch>).
+* Sheng Li et al., Fast Spatio-Temporal Residual Network for Video Super-Resolution, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Fast_Spatio-Temporal_Residual_Network_for_Video_Super-Resolution_CVPR_2019_paper.pdf).
+
+### CVPRW 2019
+
+* Xintao Wang et al., EDVR: Video Restoration with Enhanced Deformable Convolutional Networks, [[pdf\]](<https://arxiv.org/abs/1905.02716>) [[PyTorch\]](<https://github.com/xinntao/EDVR>)
 
 ### ICCV 2019
 
-* Peng Yi et al., Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations, [[pdf\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yi_Progressive_Fusion_Video_Super-Resolution_Network_via_Exploiting_Non-Local_Spatio-Temporal_Correlations_ICCV_2019_paper.pdf).
-* Haochen Zhang et al., Two-Stream Action Recognition-Oriented Video Super-Resolution, [[pdf\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Two-Stream_Action_Recognition-Oriented_Video_Super-Resolution_ICCV_2019_paper.pdf).
+* Peng Yi et al., Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations, [[pdf\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yi_Progressive_Fusion_Video_Super-Resolution_Network_via_Exploiting_Non-Local_Spatio-Temporal_Correlations_ICCV_2019_paper.pdf) [[Tensorflow\]](<https://github.com/psychopa4/PFNL>).
+* Haochen Zhang et al., Two-Stream Action Recognition-Oriented Video Super-Resolution, [[pdf\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Two-Stream_Action_Recognition-Oriented_Video_Super-Resolution_ICCV_2019_paper.pdf) [[Tensorflow & PyTorch\]](<https://github.com/AlanZhang1995/TwoStreamSR>).
 
 ### CVPR 2018
 
-* Younghyun Jo et al., Deep Video Super-Resolution Network Using Dynamic Upsampling Filters Without Explicit Motion Compensation, [[pdf\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jo_Deep_Video_Super-Resolution_CVPR_2018_paper.pdf).
+* Younghyun Jo et al., Deep Video Super-Resolution Network Using Dynamic Upsampling Filters Without Explicit Motion Compensation, [[pdf\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jo_Deep_Video_Super-Resolution_CVPR_2018_paper.pdf) [[PyTorch (only test code)\]](<https://github.com/yhjo09/VSR-DUF>).
 * Mehdi S. M. Sajjadi et al., Frame-Recurrent Video Super-Resolution, [[pdf\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sajjadi_Frame-Recurrent_Video_Super-Resolution_CVPR_2018_paper.pdf).
 
 ### CVPR 2017
@@ -45,7 +49,7 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 ### CVPR 2019
 
 * Tomer Peleg et al., IM-Net for High Resolution Video Frame Interpolation, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Peleg_IM-Net_for_High_Resolution_Video_Frame_Interpolation_CVPR_2019_paper.pdf).
-* Wenbo Bao et al., Depth-Aware Video Frame Interpolation, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Bao_Depth-Aware_Video_Frame_Interpolation_CVPR_2019_paper.pdf).
+* Wenbo Bao et al., Depth-Aware Video Frame Interpolation, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Bao_Depth-Aware_Video_Frame_Interpolation_CVPR_2019_paper.pdf) [[PyTorch\]](<https://github.com/baowenbo/DAIN>).
 * Liangzhe Yuan et al., Zoom-In-To-Check: Boosting Video Interpolation via Instance-Level Discrimination, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yuan_Zoom-In-To-Check_Boosting_Video_Interpolation_via_Instance-Level_Discrimination_CVPR_2019_paper.pdf).
 
 ### ICCV 2019
@@ -56,7 +60,7 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 * Simone Meyer et al., PhaseNet for Video Frame Interpolation, [[pdf\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Meyer_PhaseNet_for_Video_CVPR_2018_paper.pdf).
 * Simon Niklaus et al., Context-Aware Synthesis for Video Frame Interpolation, [[pdf\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Niklaus_Context-Aware_Synthesis_for_CVPR_2018_paper.pdf).
-* Huaizu Jiang et al., Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation, [[pdf\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jiang_Super_SloMo_High_CVPR_2018_paper.pdf).
+* Huaizu Jiang et al., Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation, [[pdf\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jiang_Super_SloMo_High_CVPR_2018_paper.pdf) [[PyTorch\]](<https://github.com/avinashpaliwal/Super-SloMo>).
 
 ### ECCV 2018
 
@@ -68,7 +72,7 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ### ICCV 2017
 
-* Simon Niklaus et al., Video Frame Interpolation via Adaptive Separable Convolution, [[pdf\]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Niklaus_Video_Frame_Interpolation_ICCV_2017_paper.pdf).
+* Simon Niklaus et al., Video Frame Interpolation via Adaptive Separable Convolution, [[pdf\]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Niklaus_Video_Frame_Interpolation_ICCV_2017_paper.pdf) [[PyTorch\]](<https://github.com/sniklaus/sepconv-slomo>).
 * Ziwei Liu et al., Video Frame Synthesis using Deep Voxel Flow, [[pdf\]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Video_Frame_Synthesis_ICCV_2017_paper.pdf).
 
 ### CVPR 2015
