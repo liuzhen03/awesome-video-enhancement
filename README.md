@@ -10,13 +10,13 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ### ECCV 2020
 
-* Takashi Isobe et al., Video Super-Resolution with Recurrent Structure-Detail Network, [[pdf\]](https://arxiv.org/pdf/2008.00455).
-* Wenbo Li et al., MuCAN: Multi-Correspondence Aggregation Network for Video Super-Resolution, [[pdf\]](https://arxiv.org/pdf/2007.11803).
+* Takashi Isobe et al., **Video Super-Resolution with Recurrent Structure-Detail Network**, [[pdf\]](https://arxiv.org/pdf/2008.00455).
+* Wenbo Li et al., **MuCAN: Multi-Correspondence Aggregation Network for Video Super-Resolution**, [[pdf\]](https://arxiv.org/pdf/2007.11803).
 
 ### CVPR 2020
 
-* Xiaoyu Xiang et al.,  Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xiang_Zooming_Slow-Mo_Fast_and_Accurate_One-Stage_Space-Time_Video_Super-Resolution_CVPR_2020_paper.pdf) [[PyTorch\]](<https://github.com/alterzero/RBPN-PyTorch>).
-* Takashi Isobe et al.,  Super-Resolution With Temporal Group Attention, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Isobe_Video_Super-Resolution_With_Temporal_Group_Attention_CVPR_2020_paper.pdf).
+* Xiaoyu Xiang et al., Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xiang_Zooming_Slow-Mo_Fast_and_Accurate_One-Stage_Space-Time_Video_Super-Resolution_CVPR_2020_paper.pdf) [[PyTorch\]](<https://github.com/alterzero/RBPN-PyTorch>).
+* Takashi Isobe et al.,  Video Super-Resolution With Temporal Group Attention, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Isobe_Video_Super-Resolution_With_Temporal_Group_Attention_CVPR_2020_paper.pdf).
 * Yapeng Tian et al., TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution,  [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tian_TDAN_Temporally-Deformable_Alignment_Network_for_Video_Super-Resolution_CVPR_2020_paper.pdf)
 
 ### CVPR 2019
@@ -138,11 +138,11 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ### ECCV 2016
 
-* Anita Sellent et al, video deblurring, [[pdf\]](<https://arxiv.org/pdf/1607.08421.pdf>).
+* Anita Sellent et al., video deblurring, [[pdf\]](<https://arxiv.org/pdf/1607.08421.pdf>).
 
 ### CVPR 2015
 
-* Tae Hyun Kim et al, Generalized Video Deblurring for Dynamic Scenes, [[pdf\]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Kim_Generalized_Video_Deblurring_2015_CVPR_paper.pdf).
+* Tae Hyun Kim et al., Generalized Video Deblurring for Dynamic Scenes, [[pdf\]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Kim_Generalized_Video_Deblurring_2015_CVPR_paper.pdf).
 
 ### ECCV 2014
 
