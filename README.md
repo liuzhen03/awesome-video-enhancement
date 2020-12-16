@@ -4,7 +4,20 @@ Paper list for video enhancement, including video super-resolution, interpolatio
 
 By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.com) 
 
+
+
 ## 1. Video Super Resolution
+
+### ECCV 2020
+
+* Takashi Isobe et al., Video Super-Resolution with Recurrent Structure-Detail Network, [[pdf\]](https://arxiv.org/pdf/2008.00455).
+* Wenbo Li et al., MuCAN: Multi-Correspondence Aggregation Network for Video Super-Resolution, [[pdf\]](https://arxiv.org/pdf/2007.11803).
+
+### CVPR 2020
+
+* Xiaoyu Xiang et al.,  Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xiang_Zooming_Slow-Mo_Fast_and_Accurate_One-Stage_Space-Time_Video_Super-Resolution_CVPR_2020_paper.pdf) [[PyTorch\]](<https://github.com/alterzero/RBPN-PyTorch>).
+* Takashi Isobe et al.,  Super-Resolution With Temporal Group Attention, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Isobe_Video_Super-Resolution_With_Temporal_Group_Attention_CVPR_2020_paper.pdf).
+* Yapeng Tian et al., TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution,  [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tian_TDAN_Temporally-Deformable_Alignment_Network_for_Video_Super-Resolution_CVPR_2020_paper.pdf)
 
 ### CVPR 2019
 
@@ -46,6 +59,18 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ## 2. Video Interpolation
 
+### ECCV 2020
+
+* Junheum Park et al., BMBC: Bilateral Motion Estimation with Bilateral Cost Volume for Video Interpolation, [[pdf\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590103.pdf)
+
+### CVPR 2020
+
+* Simon Niklaus et al., Softmax Splatting for Video Frame Interpolation, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Niklaus_Softmax_Splatting_for_Video_Frame_Interpolation_CVPR_2020_paper.pdf)
+* Hyeongmin Lee et al., AdaCoF: Adaptive Collaboration of Flows for Video Frame Interpolation, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_AdaCoF_Adaptive_Collaboration_of_Flows_for_Video_Frame_Interpolation_CVPR_2020_paper.pdf)
+* Wang Shen et al., Blurry Video Frame Interpolation, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Blurry_Video_Frame_Interpolation_CVPR_2020_paper.pdf)
+* Shurui Gui et al., FeatureFlow: Robust Video Interpolation via Structure-to-Texture Generation,  [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.pdf)
+* Myungsub Choi et al., Scene-Adaptive Video Frame Interpolation via Meta-Learning, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Scene-Adaptive_Video_Frame_Interpolation_via_Meta-Learning_CVPR_2020_paper.pdf)
+
 ### CVPR 2019
 
 * Tomer Peleg et al., IM-Net for High Resolution Video Frame Interpolation, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Peleg_IM-Net_for_High_Resolution_Video_Frame_Interpolation_CVPR_2019_paper.pdf).
@@ -83,6 +108,15 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ## 3. Video Deblurring
 
+### ECCV 2020
+
+* Zhihang Zhong et al., Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring, [[pdf\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510188.pdf)
+* Songnan Lin et al., Learning Event-Driven Video Deblurring and Interpolation, [[pdf\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf)
+
+### CVPR 2020
+
+* Jinshan Pan et al., Cascaded Deep Video Deblurring Using Temporal Sharpness Prior, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Cascaded_Deep_Video_Deblurring_Using_Temporal_Sharpness_Prior_CVPR_2020_paper.pdf)
+
 ### CVPR 2019
 
 * Seungjun Nah et al., Recurrent Neural Networks With Intra-Frame Iterations for Video Deblurring, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Nah_Recurrent_Neural_Networks_With_Intra-Frame_Iterations_for_Video_Deblurring_CVPR_2019_paper.pdf).
@@ -118,6 +152,12 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ## 4. Video Inpainting
 
+### ECCV 2020
+
+* Ang Li et al., Short-Term and Long-Term Context Aggregation Network for Video Inpainting, [[pdf\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490698.pdf)
+* Yanhong Zeng et al., Learning Joint Spatial-Temporal Transformations for Video Inpainting,  [[pdf\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610511.pdf)
+* Miao Liao et al., DVI: Depth Guided Video Inpainting for Autonomous Driving, [[pdf\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660001.pdf)
+
 ### CVPR 2019
 
 * Rui Xu et al., Deep Flow-Guided Video Inpainting, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Deep_Flow-Guided_Video_Inpainting_CVPR_2019_paper.pdf).
@@ -129,7 +169,14 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 * Sungho Lee et al., Copy-and-Paste Networks for Deep Video Inpainting, [[pdf\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Copy-and-Paste_Networks_for_Deep_Video_Inpainting_ICCV_2019_paper.pdf).
 * Ya-Liang Chang et al., Free-Form Video Inpainting With 3D Gated Convolution and Temporal PatchGAN, [[pdf\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chang_Free-Form_Video_Inpainting_With_3D_Gated_Convolution_and_Temporal_PatchGAN_ICCV_2019_paper.pdf).
 
+
+
 ## 5. Video Denoising
+
+### CVPR 2020
+
+* Huanjing Yue et al., Supervised Raw Video Denoising With a Benchmark Dataset on Dynamic Scenes, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yue_Supervised_Raw_Video_Denoising_With_a_Benchmark_Dataset_on_Dynamic_CVPR_2020_paper.pdf)
+* Matias Tassano et al., FastDVDnet: Towards Real-Time Deep Video Denoising Without Flow Estimation, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tassano_FastDVDnet_Towards_Real-Time_Deep_Video_Denoising_Without_Flow_Estimation_CVPR_2020_paper.pdf)
 
 ### CVPR 2019
 
