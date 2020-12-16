@@ -16,7 +16,7 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 ### CVPR 2020
 
 * Xiaoyu Xiang et al., **Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution**, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xiang_Zooming_Slow-Mo_Fast_and_Accurate_One-Stage_Space-Time_Video_Super-Resolution_CVPR_2020_paper.pdf) [[PyTorch\]](<https://github.com/alterzero/RBPN-PyTorch>).
-* Takashi Isobe et al., Video Super-Resolution With Temporal Group Attention, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Isobe_Video_Super-Resolution_With_Temporal_Group_Attention_CVPR_2020_paper.pdf).
+* Takashi Isobe et al., **Video Super-Resolution With Temporal Group Attention**, [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Isobe_Video_Super-Resolution_With_Temporal_Group_Attention_CVPR_2020_paper.pdf).
 * Yapeng Tian et al., **TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution**,  [[pdf\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tian_TDAN_Temporally-Deformable_Alignment_Network_for_Video_Super-Resolution_CVPR_2020_paper.pdf)
 
 ### CVPR 2019
