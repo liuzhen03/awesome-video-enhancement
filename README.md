@@ -192,9 +192,9 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ### ICCV 2019
 
-* Soo Ye Kim et al., Deep SR-ITM: Joint Learning of Super-Resolution and Inverse Tone-Mapping for 4K UHD HDR Applications,  [[pdf\]](https://arxiv.org/pdf/1904.11176)  [[Matlab\]](https://github.com/sooyekim/Deep-SR-ITM)
+* Soo Ye Kim et al., **Deep SR-ITM: Joint Learning of Super-Resolution and Inverse Tone-Mapping for 4K UHD HDR Applications**,  [[pdf\]](https://arxiv.org/pdf/1904.11176)  [[Matlab\]](https://github.com/sooyekim/Deep-SR-ITM)
 
 ### AAAI 2019
 
-* Soo Ye Kim et al., JSI-GAN: GAN-Based Joint Super-Resolution and Inverse Tone-Mapping with Pixel-Wise Task-Speciﬁc Filters for UHD HDR Video, [[pdf\]](https://arxiv.org/abs/1909.04391) [[Tensorflow\]](https://github.com/JihyongOh/JSI-GAN)
+* Soo Ye Kim et al., **JSI-GAN: GAN-Based Joint Super-Resolution and Inverse Tone-Mapping with Pixel-Wise Task-Speciﬁc Filters for UHD HDR Video**, [[pdf\]](https://arxiv.org/abs/1909.04391) [[Tensorflow\]](https://github.com/JihyongOh/JSI-GAN)
 
