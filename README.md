@@ -8,9 +8,23 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ## 1. Video Super Resolution
 
+### ICCV 2021
+
+* Peng Yi et al., **Omniscient Video Super-Resolution**, [[pdf]](https://arxiv.org/abs/2103.15683) [[PyTorch]](https://github.com/psychopa4/OVSR).
+* Yinxiao Li et al., **COMISR: Compression-Informed Video Super-Resolution**, [[pdf]](https://arxiv.org/abs/2105.01237) [[Tersorflow]](https://github.com/google-research/google-research/tree/master/comisr).
+* Jinshan Pan et al., **Deep Blind Video Super-Resolution**, [[pdf]](https://arxiv.org/abs/2003.04716) [[PyTorch]](https://github.com/csbhr/Deep-Blind-VSR).
+* Xi Yang et al., **Real-World Video Super-Resolution: A Benchmark Dataset and a Decomposition Based Learning Scheme**, [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Real-World_Video_Super-Resolution_A_Benchmark_Dataset_and_a_Decomposition_Based_ICCV_2021_paper.pdf) [[PyTorch]](https://github.com/IanYeung/RealVSR).
+
+### CVPR 2021
+
+* Kelvin C.K. Chan et al., **BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond**, [[pdf]](https://arxiv.org/abs/2012.02181) [[PyTorch]](https://github.com/ckkelvinchan/BasicVSR-IconVSR).
+* Gang Xu et al., **Temporal Modulation Network for Controllable Space-Time Video Super-Resolution**, [[pdf]](https://arxiv.org/abs/2104.10642) [[PyTorch]](https://github.com/CS-GangXu/TMNet).
+* Zebu Xiao et al., **Space-Time Distillation for Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_Space-Time_Distillation_for_Video_Super-Resolution_CVPR_2021_paper.pdf).
+* Yongcheng Jing et al., **Turning Frequency to Resolution: Video Super-Resolution via Event Cameras**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Jing_Turning_Frequency_to_Resolution_Video_Super-Resolution_via_Event_Cameras_CVPR_2021_paper.pdf).
+
 ### ECCV 2020
 
-* Takashi Isobe et al., **Video Super-Resolution with Recurrent Structure-Detail Network**, [[pdf\]](https://arxiv.org/pdf/2008.00455).
+* Takashi Isobe et al., **Video Super-Resolution with Recurrent Structure-Detail Network**, [[pdf]](https://arxiv.org/pdf/2008.00455).
 * Wenbo Li et al., **MuCAN: Multi-Correspondence Aggregation Network for Video Super-Resolution**, [[pdf\]](https://arxiv.org/pdf/2007.11803).
 
 ### CVPR 2020
@@ -57,7 +71,18 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 
 
-## 2. Video Interpolation
+## 2. Video Frame Interpolation
+
+### ICCV 2021
+
+* Zhiyang Yu et al., **Training Weakly Supervised Video Frame Interpolation with Events**, [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_Training_Weakly_Supervised_Video_Frame_Interpolation_With_Events_ICCV_2021_paper.html) [[PyTorch]](https://github.com/YU-Zhiyang/WEVI).
+* Junheum Park et al., **Asymmetric Bilateral Motion Estimation for Video Frame Interpolation**, [[pdf]](https://arxiv.org/abs/2108.06815) [[PyTorch]](https://github.com/JunHeum/ABME).
+* Hyeonjun Sim et al., **XVFI: eXtreme Video Frame Interpolation**, [[pdf]](http://arxiv.org/abs/2103.16206) [[PyTorch]](https://github.com/JihyongOh/XVFI).
+
+### CVPR 2021
+
+* Tianyu Ding et al., **CDFI: Compression-Driven Network Design for Frame Interpolation**, [[pdf]](https://arxiv.org/abs/2103.10559) [[PyTorch]](https://github.com/tding1/CDFI).
+* Stepan Tulyakov et al., **Time Lens: Event-Based Video Frame Interpolation**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tulyakov_Time_Lens_Event-Based_Video_Frame_Interpolation_CVPR_2021_paper.pdf) [[PyTorch]](https://github.com/uzh-rpg/rpg_timelens)
 
 ### ECCV 2020
 
@@ -108,6 +133,16 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ## 3. Video Deblurring
 
+### ICCV 2021
+
+* Wei Shang et al., **Bringing Events Into Video Deblurring With Non-Consecutively Blurry Frames**, [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Shang_Bringing_Events_Into_Video_Deblurring_With_Non-Consecutively_Blurry_Frames_ICCV_2021_paper.pdf) [[PyTorch]](https://github.com/shangwei5/D2Net).
+* Senyou Deng et al., **Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring**, [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Deng_Multi-Scale_Separable_Network_for_Ultra-High-Definition_Video_Deblurring_ICCV_2021_paper.pdf).
+
+### CVPR 2021
+
+* Maitreya Suin et al., **Gated Spatio-Temporal Attention-Guided Video Deblurring**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Suin_Gated_Spatio-Temporal_Attention-Guided_Video_Deblurring_CVPR_2021_paper.pdf).
+* Dongxu Li et al., **ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring**, [[pdf]](https://arxiv.org/abs/2103.04260).
+
 ### ECCV 2020
 
 * Zhihang Zhong et al., **Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring**, [[pdf\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510188.pdf)
@@ -152,6 +187,17 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ## 4. Video Inpainting
 
+### ICCV 2021
+
+* Rui Liu et al., **FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting**, [[pdf]](https://arxiv.org/abs/2109.02974) [[PyTorch]](https://github.com/ruiliu-ai/FuseFormer).
+* Dong Lao et al., **Flow-Guided Video Inpainting With Scene Templates**, [[pdf]](https://arxiv.org/abs/2108.12845).
+* Bingyao Yu et al., **Frequency-Aware Spatiotemporal Transformers for Video Inpainting Detection**, [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Frequency-Aware_Spatiotemporal_Transformers_for_Video_Inpainting_Detection_ICCV_2021_paper.pdf).
+* Hao Ouyang et al., **Internal Video Inpainting by Implicit Long-Range Propagation**, [[pdf]](https://arxiv.org/abs/2108.01912) [[Tensorflow]](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting).
+
+### CVPR 2021
+
+* Xueyan Zou et al., **Progressive Temporal Feature Alignment Network for Video Inpainting**, [[pdf]](https://arxiv.org/abs/2104.03507) [[PyTorch]](https://github.com/MaureenZOU/TSAM).
+
 ### ECCV 2020
 
 * Ang Li et al., **Short-Term and Long-Term Context Aggregation Network for Video Inpainting**, [[pdf\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490698.pdf)
@@ -161,7 +207,7 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 ### CVPR 2019
 
 * Rui Xu et al., **Deep Flow-Guided Video Inpainting**, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Deep_Flow-Guided_Video_Inpainting_CVPR_2019_paper.pdf).
-* Jonas Wulf et al., **Dahun Kim et al., Video Inpainting**, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Video_Inpainting_CVPR_2019_paper.pdf).
+* Dahun Kim et al., **Deep Video Inpainting**, [[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Video_Inpainting_CVPR_2019_paper.pdf).
 
 ### ICCV 2019
 
@@ -172,6 +218,15 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 
 ## 5. Video Denoising
+
+### ICCV 20221
+
+* Gregory Vaksman et al., **Patch Craft: Video Denoising by Deep Modeling and Patch Matching**, [[pdf]](https://arxiv.org/abs/2103.13767).
+* Dev Yashpal Sheth et al., **Unsupervised Deep Video Denoising**, [[pdf]](https://arxiv.org/abs/2011.15045) [[PyTorch]](https://github.com/sreyas-mohan/udvd).
+
+### CVPR 2021
+
+* Matteo Maggioni et al., **Efficient Multi-Stage Video Denoising with Recurrent Spatio-Temporal Fusion**, [[pdf]](https://arxiv.org/abs/2103.05407) [[PyTorch]](https://github.com/Baymax-chen/EMVD).
 
 ### CVPR 2020
 
