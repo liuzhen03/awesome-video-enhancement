@@ -8,6 +8,18 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ## 1. Video Super Resolution
 
+### CVPR 2022
+* Jiyang Yu et al., **Memory-Augmented Non-Local Attention for Video Super-Resolution**, [[pdf]](https://arxiv.org/abs/2108.11048)[[PyTorch(training only)]](https://github.com/jiy173/MANA)
+* Zeyuan Chen et al., **VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_VideoINR_Learning_Video_Implicit_Neural_Representation_for_Continuous_Space-Time_Super-Resolution_CVPR_2022_paper.pdf)[[PyTorch]](https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution)
+* Mengshun Hu et al., **Spatial-Temporal Space Hand-in-Hand: Spatial-Temporal Video Super-Resolution via Cycle-Projected Mutual Learning**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Spatial-Temporal_Space_Hand-in-Hand_Spatial-Temporal_Video_Super-Resolution_via_Cycle-Projected_Mutual_Learning_CVPR_2022_paper.pdf)
+* Benjamin Naoto Chiche et al., **Stable Long-Term Recurrent Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chiche_Stable_Long-Term_Recurrent_Video_Super-Resolution_CVPR_2022_paper.pdf)[[PyTorch, test only]](https://github.com/bjmch/MRVSR)
+* Kelvin C.K. Chan et al., **BasicVSR++: Improving Video Super-Resolution With Enhanced Propagation and Alignment**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chan_BasicVSR_Improving_Video_Super-Resolution_With_Enhanced_Propagation_and_Alignment_CVPR_2022_paper.pdf)[[PyTorch]](https://github.com/ckkelvinchan/BasicVSR_PlusPlus)
+* Takashi Isobe et al., **Look Back and Forth: Video Super-Resolution With Explicit Temporal Difference Modeling**, [[pdf]](https://arxiv.org/abs/2204.07114)
+* Zhicheng Geng et al., **RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution**, [[pdf]](https://arxiv.org/abs/2203.14186)[[PyTorch]](https://github.com/llmpass/RSTT)
+* Chengxu Liu et al., **Learning Trajectory-Aware Transformer for Video Super-Resolution**, [[pdf]](https://arxiv.org/abs/2204.04216)[[PyTorch]](https://github.com/researchmm/TTVSR?tab=readme-ov-file#test)
+* Junyong Lee et al., **Reference-based Video Super-Resolution Using Multi-Camera Video Triplets**, [[pdf]](https://arxiv.org/abs/2203.14537)[[PyTorch]](https://github.com/codeslake/RefVSR)
+* 
+
 ### ICCV 2021
 
 * Peng Yi et al., **Omniscient Video Super-Resolution**, [[pdf]](https://arxiv.org/abs/2103.15683) [[PyTorch]](https://github.com/psychopa4/OVSR).
