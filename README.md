@@ -8,6 +8,24 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ## 1. Video Super Resolution
 
+### CVPR 2024
+
+* Kai Xu et al., **Enhancing Video Super-Resolution via Implicit Resampling-based Alignment**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Enhancing_Video_Super-Resolution_via_Implicit_Resampling-based_Alignment_CVPR_2024_paper.pdf) [[PyTorch]](https://github.com/kai422/IART)
+* Zhikai Chen et al., **Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Learning_Spatial_Adaptation_and_Temporal_Coherence_in_Diffusion_Models_for_CVPR_2024_paper.pdf)
+* Xingyu Zhou et al., **Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Video_Super-Resolution_Transformer_with_Masked_InterIntra-Frame_Attention_CVPR_2024_paper.pdf) [[PyTorch]] (https://github.com/LabShuHangGU/MIA-VSR)
+* Geunhyuk Youk et al., **FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Youk_FMA-Net_Flow-Guided_Dynamic_Filtering_and_Iterative_Feature_Refinement_with_Multi-Attention_CVPR_2024_paper.pdf) [[PyTorch]](https://github.com/KAIST-VICLab/FMA-Net)
+* Shangchen Zhou et al., **Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Upscale-A-Video_Temporal-Consistent_Diffusion_Model_for_Real-World_Video_Super-Resolution_CVPR_2024_paper.pdf)
+
+### CVPR 2023
+
+* Gen Li et al., **Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Towards_High-Quality_and_Efficient_Video_Super-Resolution_via_Spatial-Temporal_Data_Overfitting_CVPR_2023_paper.pdf) [[PyTorch]](https://github.com/coulsonlee/STDO-CVPR2023)
+* Yingwei Wang et al., **Compression-Aware Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Compression-Aware_Video_Super-Resolution_CVPR_2023_paper.pdf) [[PyTorch(test only)]](https://github.com/aprBlue/CAVSR/tree/master)
+* Bin Xia et al., **Structured Sparsity Learning for Efficient Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xia_Structured_Sparsity_Learning_for_Efficient_Video_Super-Resolution_CVPR_2023_paper.pdf) [[PyTorch]](https://github.com/Zj-BinXia/SSL)
+* Yunfan Lu et al., **Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Learning_Spatial-Temporal_Implicit_Neural_Representations_for_Event-Guided_Video_Super-Resolution_CVPR_2023_paper.pdf) [[PyTorch]](https://github.com/yunfanLu/INR-Event-VSR/tree/main)
+
+### CVPR 2022
+* 
+
 ### ICCV 2021
 
 * Peng Yi et al., **Omniscient Video Super-Resolution**, [[pdf]](https://arxiv.org/abs/2103.15683) [[PyTorch]](https://github.com/psychopa4/OVSR).
