@@ -16,12 +16,24 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 * Geunhyuk Youk et al., **FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Youk_FMA-Net_Flow-Guided_Dynamic_Filtering_and_Iterative_Feature_Refinement_with_Multi-Attention_CVPR_2024_paper.pdf) [[PyTorch]](https://github.com/KAIST-VICLab/FMA-Net)
 * Shangchen Zhou et al., **Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Upscale-A-Video_Temporal-Consistent_Diffusion_Model_for_Real-World_Video_Super-Resolution_CVPR_2024_paper.pdf)
 
+### ECCV 2024
+* Wei Shang et al., **Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors**, [[pdf]](https://arxiv.org/abs/2407.09919), [[PyTorch]](https://github.com/shangwei5/ST-AVSR)
+* Claudio Rota et al., **Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**, [[pdf]](https://arxiv.org/abs/2311.15908), [[Soon]](https://github.com/claudiom4sir/StableVSR)
+* Ruicheng Feng et al., **Kalman-Inspired Feature Propagation for Video Face Super-Resolution**, [[pdf]](https://arxiv.org/abs/2408.05205), [[PyTorch(test only)]](https://github.com/jnjaby/KEEP)
+* Xi Yang et al., **Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**, [[pdf]](https://arxiv.org/abs/2312.00853), [[MMengine]](https://github.com/IanYeung/MGLD-VSR)
+* Yuehan Zhang et al., **RealViformer: Investigating Attention for Real-World Video Super-Resolution**, [[pdf]](https://arxiv.org/abs/2407.13987), [[Soon]](https://github.com/Yuehan717/RealViformer)
+* Yuan Shen et al., **SuperGaussian: Repurposing Video Models for 3D Super Resolution**, [[pdf]](https://arxiv.org/abs/2406.00609), [[Soon]](https://github.com/yshen47/SuperGaussian_ECCV24)
+
 ### CVPR 2023
 
 * Gen Li et al., **Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Towards_High-Quality_and_Efficient_Video_Super-Resolution_via_Spatial-Temporal_Data_Overfitting_CVPR_2023_paper.pdf) [[PyTorch]](https://github.com/coulsonlee/STDO-CVPR2023)
 * Yingwei Wang et al., **Compression-Aware Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Compression-Aware_Video_Super-Resolution_CVPR_2023_paper.pdf) [[PyTorch(test only)]](https://github.com/aprBlue/CAVSR/tree/master)
 * Bin Xia et al., **Structured Sparsity Learning for Efficient Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xia_Structured_Sparsity_Learning_for_Efficient_Video_Super-Resolution_CVPR_2023_paper.pdf) [[PyTorch]](https://github.com/Zj-BinXia/SSL)
 * Yunfan Lu et al., **Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Learning_Spatial-Temporal_Implicit_Neural_Representations_for_Event-Guided_Video_Super-Resolution_CVPR_2023_paper.pdf) [[PyTorch]](https://github.com/yunfanLu/INR-Event-VSR/tree/main)
+
+### ICCV 2023
+* Yi-Hsin Chen et al., **MoTIF: Learning Motion Trajectories with Local Implicit Neural Functions for Continuous Space-Time Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_MoTIF_Learning_Motion_Trajectories_with_Local_Implicit_Neural_Functions_for_ICCV_2023_paper.pdf), [[PyTorch(test only)]](https://github.com/sichun233746/MoTIF)
+* Zixi Tuo et al., **Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tuo_Learning_Data-Driven_Vector-Quantized_Degradation_Model_for_Animation_Video_Super-Resolution_ICCV_2023_paper.pdf), [[PyTorch]](https://github.com/researchmm/VQD-SR)
 
 ### CVPR 2022
 * Jiyang Yu et al., **Memory-Augmented Non-Local Attention for Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Memory-Augmented_Non-Local_Attention_for_Video_Super-Resolution_CVPR_2022_paper.pdf) [[PyTorch]](https://github.com/jiy173/MANA)
@@ -31,6 +43,11 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 * Chengxu Liu et al., **Learning Trajectory-Aware Transformer for Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Learning_Trajectory-Aware_Transformer_for_Video_Super-Resolution_CVPR_2022_paper.pdf) [[MMengine]](https://github.com/researchmm/TTVSR)
 * Junyong Lee et al., **Reference-Based Video Super-Resolution Using Multi-Camera Video Triplets**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Reference-Based_Video_Super-Resolution_Using_Multi-Camera_Video_Triplets_CVPR_2022_paper.pdf) [[PyTorch]](https://github.com/codeslake/RefVSR)
 * Kelvin C.K. Chan et al., **Investigating Tradeoffs in Real-World Video Super-Resolution**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chan_Investigating_Tradeoffs_in_Real-World_Video_Super-Resolution_CVPR_2022_paper.pdf) [[MMengine]](https://github.com/ckkelvinchan/RealBasicVSR)
+
+### ECCV 2022
+* Zhongwei Qiu et al., **Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution**, [[pdf]](https://arxiv.org/abs/2208.03012), [[PyTorch]](https://github.com/researchmm/FTVSR)
+* Huanjing Yue et al., **Real-RawVSR: Real-World Raw Video Super-Resolution with a Benchmark Dataset**, [[pdf]](https://arxiv.org/abs/2209.12475), [[PyTorch]](https://github.com/zmzhang1998/Real-RawVSR)
+* Jiezhang Cao et al., **Towards Interpretable Video Super-Resolution via Alternating Optimization**, [[pdf]](https://arxiv.org/abs/2207.10765), [[PyTorch]](https://github.com/caojiezhang/DAVSR)
 
 ### ICCV 2021
 
@@ -95,12 +112,15 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 * Renjie Liao et al., **Video Super-Resolution via Deep Draft-Ensemble Learning**, [[pdf\]](http://openaccess.thecvf.com/content_iccv_2015/papers/Liao_Video_Super-Resolution_via_ICCV_2015_paper.pdf).
 
 
-
 ## 2. Video Frame Interpolation
 
 ### CVPR 2024
 * Guangyang Wu et al., **Perception-Oriented Video Frame Interpolation via Asymmetric Blending**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Perception-Oriented_Video_Frame_Interpolation_via_Asymmetric_Blending_CVPR_2024_paper.pdf) [[PyTorch]](https://github.com/mulns/PerVFI/tree/main)
 * Chunxu Liu et al., **Sparse Global Matching for Video Frame Interpolation with Large Motion**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Sparse_Global_Matching_for_Video_Frame_Interpolation_with_Large_Motion_CVPR_2024_paper.pdf) [[PyTorch]](https://github.com/MCG-NJU/SGM-VFI)
+
+### ECCV 2024
+* Zhihang Zhong et al., **Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation**, [[pdf]](https://arxiv.org/abs/2311.08007), [[PyTorch]](https://github.com/zzh-tech/InterpAny-Clearer)
+* 
 
 ### CVPR 2023
 * Guozhen Zhang et al., **Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Extracting_Motion_and_Appearance_via_Inter-Frame_Attention_for_Efficient_Video_CVPR_2023_paper.pdf) [[PyTorch]](https://github.com/MCG-NJU/EMA-VFI)
@@ -110,12 +130,23 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 * Wei Shang et al., **Joint Video Multi-Frame Interpolation and Deblurring Under Unknown Exposure Time**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Joint_Video_Multi-Frame_Interpolation_and_Deblurring_Under_Unknown_Exposure_Time_CVPR_2023_paper.pdf), [[PyTorch]](https://github.com/shangwei5/VIDUE)
 * Junheum Park et al., **BiFormer: Learning Bilateral Motion Estimation via Bilateral Transformer for 4K Video Frame Interpolation**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Park_BiFormer_Learning_Bilateral_Motion_Estimation_via_Bilateral_Transformer_for_4K_CVPR_2023_paper.pdf), [[PyTorch]](https://github.com/JunHeum/BiFormer)
 
+### ICCV 2023
+* Xiang Ji et al., **Rethinking Video Frame Interpolation from Shutter Mode Induced Degradation**, [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ji_Rethinking_Video_Frame_Interpolation_from_Shutter_Mode_Induced_Degradation_ICCV_2023_paper.pdf), [[PyTorch]](https://github.com/jixiang2016/PMBNet)
+* Jun-Sang Yoo et al., **Video Object Segmentation-aware Video Frame Interpolation**, [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yoo_Video_Object_Segmentation-aware_Video_Frame_Interpolation_ICCV_2023_paper.pdf), [[PyTorch]](https://github.com/junsang7777/VOS-VFI)
+
 ### CVPR 2022
 * Xiao Lu et al., **Video Shadow Detection via Spatio-Temporal Interpolation Consistency Training**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Video_Shadow_Detection_via_Spatio-Temporal_Interpolation_Consistency_Training_CVPR_2022_paper.pdf), [[PyTorch]](https://github.com/yihong-97/STICT)
 * Zhihao Shi et al., **Video Frame Interpolation Transformer**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_Video_Frame_Interpolation_Transformer_CVPR_2022_paper.pdf), [[PyTorch]](https://github.com/zhshi0816/Video-Frame-Interpolation-Transformer)
 * Liying Lu et al., **Video Frame Interpolation with Transformer**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Video_Frame_Interpolation_With_Transformer_CVPR_2022_paper.pdf), [[PyTorch]](https://github.com/dvlab-research/VFIformer)
 * Yue Wu et al., **Optimizing Video Prediction via Video Frame Interpolation**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Optimizing_Video_Prediction_via_Video_Frame_Interpolation_CVPR_2022_paper.pdf), [[PyTorch]](https://github.com/YueWuHKUST/CVPR2022-Optimizing-Video-Prediction-via-Video-Frame-Interpolation)
 * Ping Hu et al., **Many-to-Many Splatting for Efficient Video Frame Interpolation**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Many-to-Many_Splatting_for_Efficient_Video_Frame_Interpolation_CVPR_2022_paper.pdf), [[PyTorch]](https://github.com/feinanshan/M2M_VFI)
+
+### ECCV 2022
+* Zhewei Huang et al., **Real-Time Intermediate Flow Estimation for Video Frame Interpolation**, [[pdf]](https://arxiv.org/abs/2011.06294), [[PyTorch]](https://github.com/hzwer/ECCV2022-RIFE)
+* Fitsum Reda et al., **FILM: Frame Interpolation for Large Motion**, [[pdf]](https://arxiv.org/abs/2202.04901), [[PyTorch]](https://github.com/google-research/frame-interpolation)
+* Zhiyang Yu et al., **Deep Bayesian Video Frame Interpolation**, [[pdf]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1287_ECCV_2022_paper.php), [[PyTorch]](https://github.com/Oceanlib/DBVI)
+* Qiqi Hou et al., **A Perceptual Quality Metric for Video Frame Interpolation**, [[pdf]](https://arxiv.org/abs/2210.01879), [[PyTorch]](https://github.com/hqqxyy/VFIPS)
+* Jihyong Oh et al., **DeMFI: Deep Joint Deblurring and Multi-Frame Interpolation with Flow-Guided Attentive Correlation and Recursive Boosting**, [[pdf]](https://arxiv.org/abs/2111.09985), [[PyTorch]](https://github.com/JihyongOh/DeMFI)
 
 ### ICCV 2021
 
@@ -180,12 +211,22 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 * Huicong Zhang et al., **Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Blur-aware_Spatio-temporal_Sparse_Transformer_for_Video_Deblurring_CVPR_2024_paper.pdf), [[MMengine]](https://github.com/huicongzhang/BSSTNet)
 * Geunhyuk Youk et al., **FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Youk_FMA-Net_Flow-Guided_Dynamic_Filtering_and_Iterative_Feature_Refinement_with_Multi-Attention_CVPR_2024_paper.pdf) [[PyTorch]](https://github.com/KAIST-VICLab/FMA-Net)
 
+### ECCV 2024
+* Jin-Ting He et al., **Domain-adaptive Video Deblurring via Test-time Blurring**, [[pdf]](https://arxiv.org/abs/2407.09059), [[PyTorch(test only)]](https://github.com/Jin-Ting-He/DADeblur)
+* Taewoo Kim et al., **Towards Real-world Event-guided Low-light Video Enhancement and Deblurring**, [[pdf]](https://arxiv.org/abs/2408.14916), [[Soon]](https://github.com/intelpro/ELEDNet)
+
 ### CVPR 2023
 * Jinshan Pan et al., **Deep Discriminative Spatial and Temporal Network for Efficient Video Deblurring**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Deep_Discriminative_Spatial_and_Temporal_Network_for_Efficient_Video_Deblurring_CVPR_2023_paper.pdf), [[PyTorch]](https://github.com/xuboming8/DSTNet)
 * Wei Shang et al., **Joint Video Multi-Frame Interpolation and Deblurring Under Unknown Exposure Time**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Joint_Video_Multi-Frame_Interpolation_and_Deblurring_Under_Unknown_Exposure_Time_CVPR_2023_paper.pdf), [[PyTorch]](https://github.com/shangwei5/VIDUE)
 
 ### CVPR 2022
 * Bo Ji et al., **Multi-Scale Memory-Based Video Deblurring**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ji_Multi-Scale_Memory-Based_Video_Deblurring_CVPR_2022_paper.pdf), [[PyTorch]](https://github.com/jibo27/MemDeblur)
+
+### ECCV 2022
+* Huicong Zhang et al., **Spatio-Temporal Deformable Attention Network for Video Deblurring**, [[pdf]](https://arxiv.org/abs/2207.10852), [[PyTorch]](https://github.com/huicongzhang/STDAN)
+* Yusheng Wang et al., **Efficient Video Deblurring Guided by Motion Magnitude**, [[pdf]](https://arxiv.org/abs/2207.13374), [[PyTorch]](https://github.com/sollynoay/MMP-RNN)
+* Bangrui Jiang et al., **ERDN: Equivalent Receptive Field Deformable Network for Video Deblurring**, [[pdf]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4085_ECCV_2022_paper.php), [[PyTorch(test only)]](https://github.com/TencentCloud/ERDN)
+* Jihyong Oh et al., **DeMFI: Deep Joint Deblurring and Multi-Frame Interpolation with Flow-Guided Attentive Correlation and Recursive Boosting**, [[pdf]](https://arxiv.org/abs/2111.09985), [[PyTorch]](https://github.com/JihyongOh/DeMFI)
 
 ### ICCV 2021
 
@@ -242,11 +283,20 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 ### CVPR 2024
 * Jianzong Wu et al., **Towards Language-Driven Video Inpainting via Multimodal Large Language Models**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Towards_Language-Driven_Video_Inpainting_via_Multimodal_Large_Language_Models_CVPR_2024_paper.pdf), [[PyTorch(test only)]](https://github.com/jianzongwu/Language-Driven-Video-Inpainting)
 
+### ECCV 2024
+* Fu-Yun Wang et al., **Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation**, [[pdf]](https://arxiv.org/abs/2403.13745), [[PyTorch(test only)]](https://github.com/G-U-N/Be-Your-Outpainter)
+
+### ICCV 2023
+* Shangchen Zhou et al., **ProPainter: Improving Propagation and Transformer for Video Inpainting**, [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_ProPainter_Improving_Propagation_and_Transformer_for_Video_Inpainting_ICCV_2023_paper.pdf), [[PyTorch]](https://github.com/sczhou/ProPainter)
+
 ### CVPR 2022
 * Ryan Szeto et al., **The DEVIL Is in the Details: A Diagnostic Evaluation Benchmark for Video Inpainting**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Szeto_The_DEVIL_Is_in_the_Details_A_Diagnostic_Evaluation_Benchmark_CVPR_2022_paper.pdf), [[PyTorch]](https://github.com/MichiganCOG/devil/tree/public)
 * Zhen Li et al., **Towards An End-to-End Framework for Flow-Guided Video Inpainting**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Towards_an_End-to-End_Framework_for_Flow-Guided_Video_Inpainting_CVPR_2022_paper.pdf), [[PyTorch]](https://github.com/MCG-NKU/E2FGVI)
 * Jingjing Ren et al., **DLFormer: Discrete Latent Transformer for Video Inpainting**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_DLFormer_Discrete_Latent_Transformer_for_Video_Inpainting_CVPR_2022_paper.pdf), [[PyTorch]](https://github.com/JingjingRenabc/dlformer)
 * Kaidong Zhang et al., **Inertia-Guided Flow Completion and Style Fusion for Video Inpainting**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Inertia-Guided_Flow_Completion_and_Style_Fusion_for_Video_Inpainting_CVPR_2022_paper.pdf), [[PyTorch]](https://github.com/hitachinsk/ISVI)
+
+### ECCV 2022
+* Kaidong Zhang et al., **Flow-Guided Transformer for Video Inpainting**, [[pdf]](https://arxiv.org/abs/2208.06768), [[PyTorch]](https://github.com/hitachinsk/FGT)
 
 ### ICCV 2021
 
@@ -283,7 +333,10 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 ### CVPR 2022
 * Wenwen Pan et al., **Wnet: Audio-Guided Video Object Segmentation via Wavelet-Based Cross-Modal Denoising Networks**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Pan_Wnet_Audio-Guided_Video_Object_Segmentation_via_Wavelet-Based_Cross-Modal_Denoising_Networks_CVPR_2022_paper.pdf), [[PyTorch(test only)]](https://github.com/asudahkzj/Wnet)
 
-### ICCV 20221
+### ECCV 2022
+* Junyi Li et al., **Unidirectional Video Denoising by Mimicking Backward Recurrent Modules with Look-Ahead Forward Ones**, [[pdf]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4024_ECCV_2022_paper.php), [[PyTorch]](https://github.com/nagejacob/FloRNN)
+
+### ICCV 2021
 
 * Gregory Vaksman et al., **Patch Craft: Video Denoising by Deep Modeling and Patch Matching**, [[pdf]](https://arxiv.org/abs/2103.13767).
 * Dev Yashpal Sheth et al., **Unsupervised Deep Video Denoising**, [[pdf]](https://arxiv.org/abs/2011.15045) [[PyTorch]](https://github.com/sreyas-mohan/udvd).
