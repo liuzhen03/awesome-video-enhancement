@@ -280,6 +280,9 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ## 4. Video Inpainting
 
+### TIP 2026
+* Linhao Zhong et al., **OutDreamer: Video Outpainting with a Diffusion Transformer**, [[pdf]](https://arxiv.org/abs/2506.22298), [[project]](https://github.com/zhongzero/OutDreamer)
+
 ### CVPR 2024
 * Jianzong Wu et al., **Towards Language-Driven Video Inpainting via Multimodal Large Language Models**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Towards_Language-Driven_Video_Inpainting_via_Multimodal_Large_Language_Models_CVPR_2024_paper.pdf), [[PyTorch(test only)]](https://github.com/jianzongwu/Language-Driven-Video-Inpainting)
 
