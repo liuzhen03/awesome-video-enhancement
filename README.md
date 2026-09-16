@@ -362,6 +362,10 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ## 6. Video HDR（Inverse Tone-Mapping）
 
+### arXiv 2026
+
+* Shreshth Saini et al., **LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers**, [[pdf\]](https://arxiv.org/abs/2604.02787) [[PyTorch\]](https://github.com/shreshthsaini/LumaFlux)
+
 ### ICCV 2019
 
 * Soo Ye Kim et al., **Deep SR-ITM: Joint Learning of Super-Resolution and Inverse Tone-Mapping for 4K UHD HDR Applications**,  [[pdf\]](https://arxiv.org/pdf/1904.11176)  [[Matlab\]](https://github.com/sooyekim/Deep-SR-ITM)
