@@ -114,6 +114,9 @@ By Zhen Liu. If you have any suggestions, please email me. (liuzhen.pwd@gmail.co
 
 ## 2. Video Frame Interpolation
 
+### SCIS 2026
+* Guozhen Zhang et al., **Motion-aware generative frame interpolation**, [[paper]](https://link.springer.com/article/10.1007/s11432-025-4920-3) [[PyTorch]](https://github.com/MCG-NJU/MoG-VFI)
+
 ### CVPR 2024
 * Guangyang Wu et al., **Perception-Oriented Video Frame Interpolation via Asymmetric Blending**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Perception-Oriented_Video_Frame_Interpolation_via_Asymmetric_Blending_CVPR_2024_paper.pdf) [[PyTorch]](https://github.com/mulns/PerVFI/tree/main)
 * Chunxu Liu et al., **Sparse Global Matching for Video Frame Interpolation with Large Motion**, [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Sparse_Global_Matching_for_Video_Frame_Interpolation_with_Large_Motion_CVPR_2024_paper.pdf) [[PyTorch]](https://github.com/MCG-NJU/SGM-VFI)
